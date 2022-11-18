@@ -2,6 +2,7 @@
   "files": {
     "main.css": "/new-box-office/static/css/main.b2586571.css",
     "main.js": "/new-box-office/static/js/main.da9daa13.js",
+    "service-worker.js": "/new-box-office/service-worker.js",
     "index.html": "/new-box-office/index.html",
     "main.b2586571.css.map": "/new-box-office/static/css/main.b2586571.css.map",
     "main.da9daa13.js.map": "/new-box-office/static/js/main.da9daa13.js.map"
